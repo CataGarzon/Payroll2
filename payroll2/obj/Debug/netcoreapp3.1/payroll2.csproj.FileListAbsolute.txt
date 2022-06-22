@@ -1,0 +1,14 @@
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.AssemblyInfo.cs
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\payroll2\bin\Debug\netcoreapp3.1\payroll2.exe
+C:\Users\Sena\source\repos\payroll2\bin\Debug\netcoreapp3.1\payroll2.deps.json
+C:\Users\Sena\source\repos\payroll2\bin\Debug\netcoreapp3.1\payroll2.runtimeconfig.json
+C:\Users\Sena\source\repos\payroll2\bin\Debug\netcoreapp3.1\payroll2.runtimeconfig.dev.json
+C:\Users\Sena\source\repos\payroll2\bin\Debug\netcoreapp3.1\payroll2.dll
+C:\Users\Sena\source\repos\payroll2\bin\Debug\netcoreapp3.1\payroll2.pdb
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.dll
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.pdb
+C:\Users\Sena\source\repos\payroll2\obj\Debug\netcoreapp3.1\payroll2.genruntimeconfig.cache

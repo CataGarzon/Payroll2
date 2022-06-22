@@ -1,0 +1,11 @@
+
+New Employee
+Document: 0
+First Name: 
+Last Name: 
+The salary is: 0
+Worked days: 0
+The Transport subsidy is : 0
+The Total Accrued is:  0
+The Health discount is: 0
+The Pension discount is: 0
